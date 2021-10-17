@@ -1,0 +1,24 @@
+.sideNavContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    box-sizing: border-box;
+}
+.graphContainer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 0px 50px 0px  ;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: #c5c5c53d;
+}
+.graphItem{
+    align-content: center;
+}
+.paperComp{
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
